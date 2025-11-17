@@ -1,0 +1,1 @@
+Software engineering applies systematic approaches to development. Version control systems track code changes over time. Testing methodologies ensure software quality and reliability. Agile development promotes iterative software delivery. Code reviews improve software design and reduce defects.

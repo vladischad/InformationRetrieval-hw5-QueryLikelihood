@@ -1,0 +1,1 @@
+Data analytics extracts insights from large datasets. Statistical analysis reveals patterns in data distributions. Visualization tools create charts and graphs from data. Business intelligence systems support decision-making processes. Analytics platforms process streaming data in real-time.

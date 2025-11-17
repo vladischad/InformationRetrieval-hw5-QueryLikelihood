@@ -1,0 +1,1 @@
+Machine learning algorithms use data to train models. Neural networks process data through layers. Deep learning extends neural networks with multiple hidden layers. Training requires large datasets and computational power. Model accuracy depends on quality training data.

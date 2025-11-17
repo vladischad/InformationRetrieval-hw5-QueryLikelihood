@@ -1,0 +1,1 @@
+Mobile applications run on smartphones and tablets. Native development uses platform-specific programming languages. Cross-platform frameworks enable code reuse across mobile platforms. User interface design focuses on touch interactions. Mobile apps integrate with device sensors and services.

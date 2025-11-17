@@ -1,0 +1,1 @@
+Web applications use HTML, CSS, and JavaScript for frontend development. Backend systems handle server logic and database connections. APIs enable communication between different software components. Modern frameworks simplify web development processes and improve code maintainability.

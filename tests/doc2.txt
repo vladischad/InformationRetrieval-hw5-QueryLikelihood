@@ -1,0 +1,1 @@
+Database systems store and retrieve data efficiently. SQL queries access relational database tables. Indexing improves query performance significantly. Transaction processing ensures database consistency. Data normalization reduces storage redundancy and improves integrity.

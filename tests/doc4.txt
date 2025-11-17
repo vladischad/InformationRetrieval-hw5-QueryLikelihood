@@ -1,0 +1,1 @@
+Network security protects data transmission across networks. Encryption algorithms secure sensitive information during transfer. Authentication systems verify user identity before access. Firewalls monitor and control network traffic. Security protocols prevent unauthorized network access.
