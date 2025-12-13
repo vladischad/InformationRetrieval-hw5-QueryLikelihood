@@ -83,7 +83,7 @@ def index(filename):
 def index_dir(directory):
     for root, _, files in os.walk(directory):
         for file in files:
-            if file.endswith(".txt"):
+            if file.endswith(".html"):
                 index(os.path.join(root, file))
 
 # 1.4. Find postings for a list of terms
